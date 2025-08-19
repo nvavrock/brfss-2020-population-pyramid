@@ -39,15 +39,15 @@ brfss-2020-population-pyramid/
 
 │
 
-├── data/          # Optional: store dataset if public, or add a README with the download link
+├── data/                   # Optional: store dataset if public, or add a README with the download link
 
-├── notebooks/     # RMarkdown (.Rmd) or R script (.R)
+├── notebooks/              # RMarkdown (.Rmd) or R script (.R)
 
-├── images/        # Screenshots or exported charts (PNG/JPEG)
+├── images/                 # Screenshots or exported charts (PNG/JPEG)
 
-├── README.md      # Main project description
+├── README.md               # Main project description
 
-└── LICENSE        # MIT License file
+└── LICENSE                 # MIT License file
 
 ---
 
